@@ -4,3 +4,5 @@
 
  It asks a user to input two 5 digit bynary number.
  Print out the results in the scree as Convolution calculation results.
+
+(2022)
